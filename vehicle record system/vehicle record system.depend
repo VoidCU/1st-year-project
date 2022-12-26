@@ -1,0 +1,646 @@
+# depslib dependency file v1.0
+1551576975 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551576785 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\menu.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1551575480 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\reg.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551575393 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\display.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551521832 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\gotoxy.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551575393 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\getkey.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551575393 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\displayinfo.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551575393 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\displayowner.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551575480 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\inf.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551575480 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\change.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551576358 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\choose.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551528479 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\chosinf.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551528479 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\chosown.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551576274 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\modefy.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551576462 source:c:\users\nepal\desktop\c pro\new folder\vehicle record system\modifydis.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551882340 source:g:\version 2\vehicle record system\change.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682436 source:g:\version 2\vehicle record system\choose.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551881644 source:g:\version 2\vehicle record system\display.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551882906 source:g:\version 2\vehicle record system\displayinfo.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551882906 source:g:\version 2\vehicle record system\displayowner.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682436 source:g:\version 2\vehicle record system\getkey.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682436 source:g:\version 2\vehicle record system\gotoxy.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551923694 source:g:\version 2\vehicle record system\inf.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551923694 source:g:\version 2\vehicle record system\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682434 source:g:\version 2\vehicle record system\menu.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1551882428 source:g:\version 2\vehicle record system\modefy.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551882340 source:g:\version 2\vehicle record system\modifydis.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551881644 source:g:\version 2\vehicle record system\reg.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551923694 source:g:\version 2\vehicle record system\choose2.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551683164 source:g:\version 2\vehicle record system\price.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682434 source:f:\version 2\vehicle record system\change.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682436 source:f:\version 2\vehicle record system\choose.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682434 source:f:\version 2\vehicle record system\choose2.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551683164 source:f:\version 2\vehicle record system\display.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551683164 source:f:\version 2\vehicle record system\displayinfo.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551683164 source:f:\version 2\vehicle record system\displayowner.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682436 source:f:\version 2\vehicle record system\getkey.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682436 source:f:\version 2\vehicle record system\gotoxy.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682434 source:f:\version 2\vehicle record system\inf.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682434 source:f:\version 2\vehicle record system\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682434 source:f:\version 2\vehicle record system\menu.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1551683164 source:f:\version 2\vehicle record system\modefy.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551683164 source:f:\version 2\vehicle record system\modifydis.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551683164 source:f:\version 2\vehicle record system\price.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551683164 source:f:\version 2\vehicle record system\reg.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551882340 source:d:\version 2.5\vehicle record system\change.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682436 source:d:\version 2.5\vehicle record system\choose.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551923694 source:d:\version 2.5\vehicle record system\choose2.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551881644 source:d:\version 2.5\vehicle record system\display.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551882906 source:d:\version 2.5\vehicle record system\displayinfo.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551882906 source:d:\version 2.5\vehicle record system\displayowner.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682436 source:d:\version 2.5\vehicle record system\getkey.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682436 source:d:\version 2.5\vehicle record system\gotoxy.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551923694 source:d:\version 2.5\vehicle record system\inf.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551923810 source:d:\version 2.5\vehicle record system\lost.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551923694 source:d:\version 2.5\vehicle record system\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682434 source:d:\version 2.5\vehicle record system\menu.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1551882428 source:d:\version 2.5\vehicle record system\modefy.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551882340 source:d:\version 2.5\vehicle record system\modifydis.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551683164 source:d:\version 2.5\vehicle record system\price.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551881644 source:d:\version 2.5\vehicle record system\reg.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551975150 source:g:\version 2.5\vehicle record system\change.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551975076 source:g:\version 2.5\vehicle record system\choose.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551975076 source:g:\version 2.5\vehicle record system\choose2.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551974884 source:g:\version 2.5\vehicle record system\display.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551975504 source:g:\version 2.5\vehicle record system\displayinfo.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551975480 source:g:\version 2.5\vehicle record system\displayowner.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682436 source:g:\version 2.5\vehicle record system\getkey.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682436 source:g:\version 2.5\vehicle record system\gotoxy.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551975156 source:g:\version 2.5\vehicle record system\inf.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551975076 source:g:\version 2.5\vehicle record system\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551973336 source:g:\version 2.5\vehicle record system\menu.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1551975170 source:g:\version 2.5\vehicle record system\modefy.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551975456 source:g:\version 2.5\vehicle record system\modifydis.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551975078 source:g:\version 2.5\vehicle record system\price.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551975078 source:g:\version 2.5\vehicle record system\reg.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551975828 source:g:\version 2.5\vehicle record system\lost.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015258 source:c:\users\nepal\desktop\final version\vehicle record system\change.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015257 source:c:\users\nepal\desktop\final version\vehicle record system\choose.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015257 source:c:\users\nepal\desktop\final version\vehicle record system\choose2.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015735 source:c:\users\nepal\desktop\final version\vehicle record system\display.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015735 source:c:\users\nepal\desktop\final version\vehicle record system\displayinfo.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015735 source:c:\users\nepal\desktop\final version\vehicle record system\displayowner.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015258 source:c:\users\nepal\desktop\final version\vehicle record system\getkey.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1551682436 source:c:\users\nepal\desktop\final version\vehicle record system\gotoxy.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015258 source:c:\users\nepal\desktop\final version\vehicle record system\inf.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015258 source:c:\users\nepal\desktop\final version\vehicle record system\lost.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015294 source:c:\users\nepal\desktop\final version\vehicle record system\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015258 source:c:\users\nepal\desktop\final version\vehicle record system\menu.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1552015622 source:c:\users\nepal\desktop\final version\vehicle record system\modefy.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015735 source:c:\users\nepal\desktop\final version\vehicle record system\modifydis.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015258 source:c:\users\nepal\desktop\final version\vehicle record system\price.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1552015569 source:c:\users\nepal\desktop\final version\vehicle record system\reg.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

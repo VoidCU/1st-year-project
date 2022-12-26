@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="vehicle record system" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/vehicle record system" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/vehicle record system" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="change.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="choose.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="choose2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="display.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="displayinfo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="displayowner.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getkey.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gotoxy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="inf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lost.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modefy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modifydis.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="price.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
